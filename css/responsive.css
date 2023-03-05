@@ -1,0 +1,40 @@
+@media only screen and (max-width:1000px){
+    .nav-list{
+        flex-direction: column;
+    }
+    .navbar{
+        flex-direction: column;
+        height: 350px;
+        transition: all 0.7s ease-out;
+    }
+    .rightNav{
+        text-align: center;
+    }
+    #search{
+        width: 100%;
+    }
+    .burger{
+        display: block;
+    }
+    .h-nav{
+        height:62px;
+    }
+    .v-class{
+        display:none;
+    }
+    .box-Main{
+        flex-direction: column-reverse;
+        max-width: 100%;
+    }
+    .section{
+        flex-direction: column-reverse;
+        padding-top: 30px;
+    }
+    .paras{
+        padding: 10px;
+    }
+    .text-small{
+        text-align: justify;
+    }
+    
+}
