@@ -198,3 +198,21 @@ footer{
     height: 3px;
     margin: 5px 3px;
 }
+.services{
+    max-height: 200px;
+    max-width: 300px;
+}
+.serv{
+    width: 90%;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+    text-align: center;
+}
+.head{
+    text-align: center;
+    padding: 30px;
+}
+.box{
+    box-shadow:7px 7px 11px  #333;
+}
