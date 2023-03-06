@@ -36,5 +36,7 @@
     .text-small{
         text-align: justify;
     }
-    
+    .box{
+        margin-bottom: 30px;
+    }
 }
